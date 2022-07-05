@@ -5,11 +5,12 @@
     "Label1": 4,
     "Label2": 5,
     "Label3": 7,
+    "Label4": 8,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/05/2022 18:10:12",
+  "HeaderLastSavedDateTimeUTC": "07/05/2022 18:11:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -29,6 +30,7 @@
     "Label1": 3,
     "Label2": 4,
     "Label3": 0,
+    "Label4": 0,
     "Screen1": 2
   },
   "ResourcesJsonIndices": {},
