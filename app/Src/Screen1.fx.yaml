@@ -12,3 +12,9 @@ Screen1 As screen:
         Y: =294
         ZIndex: =2
 
+    Label3 As label:
+        Text: ="randy"
+        X: =835
+        Y: =240
+        ZIndex: =3
+
