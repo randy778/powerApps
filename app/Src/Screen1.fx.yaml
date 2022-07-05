@@ -24,3 +24,10 @@ Screen1 As screen:
         Y: =106
         ZIndex: =4
 
+    Rectangle1 As rectangle:
+        Height: =312
+        Width: =977
+        X: =180
+        Y: =370
+        ZIndex: =4
+
