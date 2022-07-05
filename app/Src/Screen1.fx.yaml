@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =41
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="J Soe - Text"
+        X: =374
+        Y: =294
+        ZIndex: =2
+
